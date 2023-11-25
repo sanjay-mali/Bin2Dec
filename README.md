@@ -1,8 +1,8 @@
 # Bin2Dec
 
-*** # Binary to Decimal Conversion in JavaScript ***
+** # Binary to Decimal Conversion in JavaScript **
 
-Overview
+** Overview **
 
 Binary and decimal number systems are fundamental in computer science and mathematics. A binary number is expressed using only two digits, 0 and 1, whereas a decimal number uses ten digits (0-9). Converting a binary number to its decimal equivalent involves a straightforward process in JavaScript.
 
