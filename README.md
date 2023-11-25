@@ -1,6 +1,6 @@
 # Bin2Dec
 
-                                                                        Binary to Decimal Conversion in JavaScript
+Binary to Decimal Conversion in JavaScript
 
 Overview
 
